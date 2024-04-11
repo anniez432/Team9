@@ -1,8 +1,9 @@
 h1, h2{
 	text-align: center;
-	color: #ffffff;	
+	color: #ffffff;
 }
 
 body{
 	background: #800000;
+	padding: auto;
 }
